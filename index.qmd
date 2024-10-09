@@ -3,17 +3,21 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG_6111 (1).png
 ---
 
-:::{#me}
-
+::: {#me}
 ## Goals
+
+Hi, My Name is Hannah! I'm a Master's student in the MCBS Department! Structural Biochemistry is totally my jam!I work on the inactivation proteins in the visual transduction pathway, including RGS9, R9AP and GB5L! Other than science, I like to Rock Climb, Read, and Cook! My favorite food to bake is Banana Bread! A few fun facts are: I can sail (like boats), I drink an ungodly amount of coffee everyday and I've been rock climbing in Estonia!
 
 ## Education
 
+Undergrad - Siena College - Major - Biology, Minor - Chemistry Grad - Master's in Biochemistry
+
 ## Experience
 
+I've been to 9 countries! (ten in November!). I love to listen to the Buttertones and the Plumbs. I'm watching Downton Abbey right now.
 :::
 
-Thanks for checking out my web site!
+Have a great day! ![](img/dwight.png)
